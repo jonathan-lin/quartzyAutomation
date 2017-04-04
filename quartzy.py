@@ -4,9 +4,6 @@
 # In[3]:
 
 from selenium import webdriver
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import Select
 import time
 import os
 from os import listdir
